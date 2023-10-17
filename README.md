@@ -27,8 +27,8 @@ Here are some screenshots and GIFs of the assignment in action. These images sho
 
 - **Mobile Version**: 
 
-https://github.com/Abhilasha-Jairath/dashboardByAbhilashaJairath/assets/53110403/93d9f528-67ab-4151-9aa8-9b932d9f69d6
 
+https://github.com/Abhilasha-Jairath/dashboardByAbhilashaJairath/assets/53110403/b17dae3b-e027-4387-a599-18358d6d6bc0
 
 
 ## 🚀 Install project dependencies
